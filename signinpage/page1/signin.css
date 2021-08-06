@@ -1,6 +1,6 @@
 body {
   background:rgb(200, 200, 200) ;
-  background: linear-gradient(to right, rgb(200, 200, 200) , rgba(240, 240, 240, 0.952));
+  background: linear-gradient(to right, rgb(200, 200, 200) , rgba(209, 207, 207, 0.952));
 }
 
 .btn-login {
